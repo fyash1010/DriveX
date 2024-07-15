@@ -1,0 +1,5 @@
+testdummy0: 0.30
+testdummy1: 0.40
+testdummy2: 0.60
+testdummy3: 0.15
+testdummy4: 0.87
